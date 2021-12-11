@@ -1,0 +1,34 @@
+h1 {
+    color: brown;
+    margin: 45px;
+}
+
+body {
+    background-color: #808080;
+    border: solid;
+}
+
+.header {
+    color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: blueviolet
+}
+
+.intro {
+    margin: 45px;
+}
+
+
+/*{border: solid;}
